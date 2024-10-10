@@ -1,0 +1,23 @@
+header{ color: white; 
+background-color: blue;}
+.Main-content {
+    background-color: yellow;
+}
+.highlight{ scrollbar-highlight-color: yellow;}
+#id1 {
+    text-align: center
+    ;
+}
+#id2 {text-decoration-line: none;}
+
+.under{ text-decoration-line: underline;
+text-decoration-style: dashed;}
+
+.bold-text{ font-weight:bold ;}
+
+*{font-family: arial, sans-serif;}
+#intro{ font-weight: 300;}
+
+.custom-font{ font-family: 'Times New Roman', Times, serif}
+#id3{ text-transform:uppercase;}
+.capitalize-text { text-transform: capitalize;}
